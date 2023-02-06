@@ -1,0 +1,23 @@
+.bericht {
+    width: 1000px;
+    background-color: lightblue;
+}
+
+.first_image {
+    float: left;
+}
+
+.second_image {
+    float: right;
+}
+
+.third_image {
+    float: left;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
