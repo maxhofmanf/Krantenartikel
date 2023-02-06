@@ -3,16 +3,16 @@
     background-color: lightblue;
 }
 
-.first_image {
+.left_image {
     float: left;
+    border: 2px black solid;
+
 }
 
-.second_image {
+.right_image {
     float: right;
-}
+    border: 2px black solid;
 
-.third_image {
-    float: left;
 }
 
 .center {
